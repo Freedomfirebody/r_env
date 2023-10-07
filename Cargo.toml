@@ -1,5 +1,5 @@
 [package]
-name = "tmp_macro"
+name = "r_env"
 version = "0.1.0"
 edition = "2021"
 
