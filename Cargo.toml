@@ -2,6 +2,9 @@
 name = "r_env"
 version = "0.1.0"
 edition = "2021"
+authors = ["Lewis Cheng <freedomfirebody@gmail.com>"]
+description = "A macro to read environment variables at compile time."
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
